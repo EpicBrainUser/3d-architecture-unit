@@ -1,0 +1,7 @@
+/* Center the text inside h1 and paragraph elements */
+h1, p {
+  text-align: center;
+  color: darkblue; /* Change text color */
+  font-family: 'Arial', sans-serif;
+}
+
