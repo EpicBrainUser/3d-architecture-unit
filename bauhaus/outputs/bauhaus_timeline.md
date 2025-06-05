@@ -18,9 +18,9 @@ Defintions:
 
 * A crucial example of the vernacular in the UK is the terraced houses seen
 almost only in the UK:
-![](/home/max/school/3d_stuff/vernacular/images/uk/img1.jpg)
-![](/home/max/school/3d_stuff/vernacular/images/uk/Edith_Avenue_in_Moss_Side.jpg)
-![](/home/max/school/3d_stuff/vernacular/images/uk/Theed_Street,_Waterloo_-_geograph.org.uk_-_654705.jpg)
+![](../../vernacular/images/uk/img1.jpg)
+![](../../vernacular/images/uk/Edith_Avenue_in_Moss_Side.jpg)
+![](../../vernacular/images/uk/Theed_Street,_Waterloo_-_geograph.org.uk_-_654705.jpg)
 
 
 <div class="pagebreak"></div>
@@ -32,9 +32,9 @@ almost only in the UK:
   sloping roofs for the same reason. The materials are also very different,
 relying on hay and mud over bricks and concrete. 
 
-![House on stilts](/home/max/school/3d_stuff/vernacular/images/vietnam/stilt-house.jpg)
-![](/home/max/school/3d_stuff/vernacular/images/vietnam/1920px-Ngọ_môn,_Huế.jpg)
-![](/home/max/school/3d_stuff/vernacular/images/vietnam/1920px-Nhà_thời_niên_thiếu_của_Tôn_Đức_Thắng.jpg)
+![House on stilts](../../vernacular/images/vietnam/stilt-house.jpg)
+![](../../vernacular/images/vietnam/1920px-Ngọ_môn,_Huế.jpg)
+![](../../vernacular/images/vietnam/1920px-Nhà_thời_niên_thiếu_của_Tôn_Đức_Thắng.jpg)
 
 
 <div class="pagebreak"></div>
@@ -43,9 +43,9 @@ relying on hay and mud over bricks and concrete.
 
 * Spain too has its unique style of architecture
 
-![](/home/max/school/3d_stuff/vernacular/images/spain/central-vernacular.png)
-![](/home/max/school/3d_stuff/vernacular/images/spain/altea.jpg)
-![](/home/max/school/3d_stuff/vernacular/images/spain/valencia.jpg)
+![](../../vernacular/images/spain/central-vernacular.png)
+![](../../vernacular/images/spain/altea.jpg)
+![](../../vernacular/images/spain/valencia.jpg)
 
 
 
@@ -56,9 +56,9 @@ relying on hay and mud over bricks and concrete.
 * South African employs again a very different style, mostly huts made of hay
 and wooden sticks
 
-![](/home/max/school/3d_stuff/vernacular/images/southAfrica/img1.jpg)
-![](/home/max/school/3d_stuff/vernacular/images/southAfrica/img2.jpg)
-![](/home/max/school/3d_stuff/vernacular/images/southAfrica/img3.jpg)
+![](../../vernacular/images/southAfrica/img1.jpg)
+![](../../vernacular/images/southAfrica/img2.jpg)
+![](../../vernacular/images/southAfrica/img3.jpg)
 
 
 <div class="pagebreak"></div>
@@ -105,7 +105,7 @@ Designed by __Walter Gropius__ (1883 - 1969)
       * Two story construction of the bridge also housing the most prized workshop in the school - the architecture workshop
         * This bridge would be built on stilts - highlighting the fashionable cubist idea of interpenetration of space
       
-          ![](/home/max/school/3d_stuff/bauhaus/pictures/bridge.jpeg)
+          ![](../pictures/bridge.jpeg)
 
     * ######## A collective area with a theater and a refractory
       
@@ -117,13 +117,13 @@ Designed by __Walter Gropius__ (1883 - 1969)
       * This has 24 student flats on four floors - the highest section of the building
       * Rooms extend out onto tiny balconies - that provide the feeling of additional space
       
-      ![Student balconies](/home/max/school/3d_stuff/bauhaus/pictures/Bauhaus-Dessau_Wohnheim_Balkone.jpg)
+      ![Student balconies](../pictures/Bauhaus-Dessau_Wohnheim_Balkone.jpg)
     
     * ######## Housing for the teachers
       
       * Self Explanatory
       
-      ![Housing for Teachers](/home/max/school/3d_stuff/bauhaus/pictures/Casa-Maestros-Bauhaus2-953243935.jpg)
+      ![Housing for Teachers](../pictures/Casa-Maestros-Bauhaus2-953243935.jpg)
     
     * ######## Technical school to train young apprentices (as requested by the Dessau City Council)
       
@@ -142,7 +142,7 @@ Designed by __Walter Gropius__ (1883 - 1969)
 
 * The "Glass Curtain" of the workshop bearing no weight was already partially tested in the 'faggus factory' built with Adolf Meyer 
   
-  ![Front View of Curtain](/home/max/school/3d_stuff/bauhaus/pictures/6265_Dessau.JPG)
+  ![Front View of Curtain](../pictures/6265_Dessau.JPG)
 
 * America was is inspiration from this - industrial design from here, for example:
   
@@ -170,7 +170,7 @@ Designed by __Walter Gropius__ (1883 - 1969)
 
 * At 43, the Architect, Walter Gropius was also its director
   
-  ![Walter](/home/max/school/3d_stuff/bauhaus/pictures/WalterGropius-1919.jpg)
+  ![Walter](../pictures/WalterGropius-1919.jpg)
 
 <div class="pagebreak"></div>
 
@@ -221,7 +221,7 @@ Designed by __Walter Gropius__ (1883 - 1969)
 ## Sea Lane House
 
 * Built by Marcel Breuer in 1936
-![Marcel Breuer](/home/max/school/3d_stuff/sea-lane/images/Breuer-Main_entry_image.png)
+![Marcel Breuer](../../sea-lane/images/Breuer-Main_entry_image.png)
 
     * Marcel was trained by the Bauhaus - hense the architecture styles both modernist
 
