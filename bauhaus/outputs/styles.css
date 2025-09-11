@@ -6,7 +6,8 @@ body {
     max-width: 800px;
     margin: 2rem auto;
     padding: 2rem;
-    background: #f8fafc;
+    /* background: #f8fafc; */
+    background: #ffffff;
     color: #222;
     line-height: 1.7;
     font-size: 1.1rem;
@@ -150,3 +151,6 @@ hr {
     }
 }
 
+.pagebreak {
+  page-break-after: always;
+}

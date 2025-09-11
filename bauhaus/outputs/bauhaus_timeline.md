@@ -5,16 +5,16 @@
 
 Defintions:
 
-> **Vernacular** -  
+> **Vernacular** —
 	Vernacular architecture follows regional, local and traditional styles of architecture. This typically means that fine details are left in for decoration, in stark contrast to modernist architecture.  
-    Here, the key design principle is following tradition - which means only the local style. This means a hose in Switzerland will look nothing like a house in England, as each follows the local style.
+    Here, the key design principle is following tradition — which means only the local style. This means a hose in Switzerland will look nothing like a house in England, as each follows the local style.
 	
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
 </div>
 
-### Vernacular - UK
+### Vernacular — UK
 
 * A crucial example of the vernacular in the UK is the terraced houses seen
 almost only in the UK:
@@ -23,9 +23,9 @@ almost only in the UK:
 ![](../../vernacular/images/uk/Theed_Street,_Waterloo_-_geograph.org.uk_-_654705.jpg)
 
 
-<div class="pagebreak"></div>
+<div style="page-break-after: always;"></div>
 
-### Vernacular - Vietnam
+### Vernacular — Vietnam
 
 * Vietnam has a very different style of vernacular architecture to the UK, with
   a large amount of their houses on stils because of the rainy season, and large
@@ -37,9 +37,9 @@ relying on hay and mud over bricks and concrete.
 ![](../../vernacular/images/vietnam/1920px-Nhà_thời_niên_thiếu_của_Tôn_Đức_Thắng.jpg)
 
 
-<div class="pagebreak"></div>
+<div style="page-break-after: always;"></div>
 
-### Vernacular - Spain
+### Vernacular — Spain
 
 * Spain too has its unique style of architecture
 
@@ -49,9 +49,9 @@ relying on hay and mud over bricks and concrete.
 
 
 
-<div class="pagebreak"></div>
+<div style="page-break-after: always;"></div>
 
-### Vernacular - South Africa
+### Vernacular — South Africa
 
 * South African employs again a very different style, mostly huts made of hay
 and wooden sticks
@@ -61,20 +61,22 @@ and wooden sticks
 ![](../../vernacular/images/southAfrica/img3.jpg)
 
 
-<div class="pagebreak"></div>
+<div style="page-break-after: always;"></div>
 
 
 ---
-> **Modernist** -   
-	Modernist architecture is following the modernism movement - from traditional forms of art towards more abstract forms. Specifically in architecture, it means to simplify and ‘streamline’ the architecture, which would remove most decorative details instead choosing to replace them with straight edges and right angles. The primary design idea is 'form follows function' - Louis Sullivan, and predicting and designing everything around the function, so how it would be used, and then, only later, if neccessary to add form.
+> **Modernist** —   
+	Modernist architecture is following the modernism movement — from traditional forms of art towards more abstract forms. Specifically in architecture, it means to simplify and ‘streamline’ the architecture, which would remove most decorative details instead choosing to replace them with straight edges and right angles. The primary design idea is 'form follows function' — Louis Sullivan, and predicting and designing everything around the function, so how it would be used, and then, only later, if neccessary to add form.
+
+<div style="page-break-after: always;"></div>
 
 ## Bauhaus of Dessau (timeline)
 
-Designed by __Walter Gropius__ (1883 - 1969)
+Designed by __Walter Gropius__ (1883 — 1969)
 
 * Began in 1919 in Weimar, Gropius founded the Bauhaus movement
   
-  * This movement aimed to reconcile art and crafts to create a new industrial aesthetic, what we now call design - specifically modernism
+  * This movement aimed to reconcile art and crafts to create a new industrial aesthetic, what we now call design — specifically modernism
     * Modernism was crucial to the Bauhaus, and the Bauhaus is built around it.
     
     * This included everything, from metalworking to painting but also performances such as dance and stagecraft. Here furniture was designed as well.
@@ -86,65 +88,67 @@ Designed by __Walter Gropius__ (1883 - 1969)
   * Land was made available for Gropius in a relatively isolated area, separated from town
 
 
-<div class="pagebreak"></div>
+<div style="page-break-after: always;"></div>
 
-* #### Design of the Bauhaus
+### Design of the Bauhaus
   
-  * ###### Sections of the Bauhaus
+  * #### Sections of the Bauhaus
     
-    * ######## The Higher Academy for the Arts
+    * ###### The Higher Academy for the Arts
       
       * A parallelepiped that houses the large Bauhaus workshops. 
-      * Given every opportunity for expansion - with no partitions to give it an impression of enclosure
-      * Designed to be the most powerful element of the project - an image that would mark people
+      * Given every opportunity for expansion — with no partitions to give it an impression of enclosure
+      * Designed to be the most powerful element of the project — an image that would mark people
     
-    * ######## Area for the Administrative Department and Director's office
+    * ###### Area for the Administrative Department and Director's office
       
       * Center of the building
       * Linking the two schools: the Bauhaus and its workshops and the Technical school
-      * Two story construction of the bridge also housing the most prized workshop in the school - the architecture workshop
-        * This bridge would be built on stilts - highlighting the fashionable cubist idea of interpenetration of space
+      * Two story construction of the bridge also housing the most prized workshop in the school — the architecture workshop
+        * This bridge would be built on stilts — highlighting the fashionable cubist idea of interpenetration of space
       
           ![](../pictures/bridge.jpeg)
 
-    * ######## A collective area with a theater and a refractory
+    * ###### A collective area with a theater and a refractory
       
       * Where the students of the technical school, those of the art school and the teachers could meet 
       * A place of performance, leisure and encounters
+
+
     
-    * ######## Studio accommodation for the students
+    * ###### Studio accommodation for the students
       
-      * This has 24 student flats on four floors - the highest section of the building
-      * Rooms extend out onto tiny balconies - that provide the feeling of additional space
+      * This has 24 student flats on four floors — the highest section of the building
+      * Rooms extend out onto tiny balconies — that provide the feeling of additional space
       
       ![Student balconies](../pictures/Bauhaus-Dessau_Wohnheim_Balkone.jpg)
     
-    * ######## Housing for the teachers
+    * ###### Housing for the teachers
       
       * Self Explanatory
       
       ![Housing for Teachers](../pictures/Casa-Maestros-Bauhaus2-953243935.jpg)
     
-    * ######## Technical school to train young apprentices (as requested by the Dessau City Council)
+    * ###### Technical school to train young apprentices (as requested by the Dessau City Council)
       
       * No glass walls here, these were classrooms so the windows were placed high so as not to distract the students
       * Less prestigious here
 
-<div class="pagebreak"></div>
+<div style="page-break-after: always;"></div>
 
   
-  * ###### Orientation of the Bauhaus
+  * ##### Orientation of the Bauhaus
     
     * Gropius had to decide on the orientation of the building, now having drawn out an outline for it 
     * He chose to make it so that the sun in the summer would wake the students, reminding them of their first duty: a harmonious relationship with nature 
-    * He would then locate the leading parallelepiped of the main workshop between east and west - making it so that all day long the workshops would be flooded with light. This unintentionally made it a greenhouse due to the glass walls
+    * He would then locate the leading parallelepiped of the main workshop between east and west — making it so that all day long the workshops would be flooded with light. This unintentionally made it a greenhouse due to the glass walls
     * Finally he gave the technical school the final rays of light
 
 * The "Glass Curtain" of the workshop bearing no weight was already partially tested in the 'faggus factory' built with Adolf Meyer 
   
   ![Front View of Curtain](../pictures/6265_Dessau.JPG)
 
-* America was is inspiration from this - industrial design from here, for example:
+* America was is inspiration from this — industrial design from here, for example:
   
   * The grain silos of Canada and South America
   
@@ -153,15 +157,15 @@ Designed by __Walter Gropius__ (1883 - 1969)
   * The most modern workshops of the North American companies
     
     * Here Gropius was free to place them how he liked, and chose for an interlinked structure in a deliberately asymmetric form
-    * To truly understand the building and its subsequent parts one must walk around, and walk around to find the discreet entrance - which is against classical architecture where the central door is the most central part of the building 
+    * To truly understand the building and its subsequent parts one must walk around, and walk around to find the discreet entrance — which is against classical architecture where the central door is the most central part of the building 
 
-<div class="pagebreak"></div>
+<div style="page-break-after: always;"></div>
 
 
-* #### Construction of the Bauhaus
+* ### Construction of the Bauhaus
   
-  * It was built in just over a year - very short period as a point needed to be proved
-  * Gropius used assembly lines on the worksites - copying Ford's ideas here
+  * It was built in just over a year — very short period as a point needed to be proved
+  * Gropius used assembly lines on the worksites — copying Ford's ideas here
 
 * December 4th, 1926, inauguration of the Bauhaus
   
@@ -172,10 +176,10 @@ Designed by __Walter Gropius__ (1883 - 1969)
   
   ![Walter](../pictures/WalterGropius-1919.jpg)
 
-<div class="pagebreak"></div>
+<div style="page-break-after: always;"></div>
 
 
-* #### Modernism in the Bauhaus
+* ### Modernism in the Bauhaus
 
     * Here this would mean that: 
         * Useage of simpler shapes in design, elimiation of decorative features
@@ -190,7 +194,7 @@ Designed by __Walter Gropius__ (1883 - 1969)
 
 
 
-    * ###### Materials in Modernism, as seen through the Bauhaus
+    * ##### Materials in Modernism, as seen through the Bauhaus
 
         * Material use in modernism makes use of the idea   
         _"truth to materials"_  
@@ -206,24 +210,26 @@ Designed by __Walter Gropius__ (1883 - 1969)
         We clearly see this design concept being used when we look at th
         bauhaus:
             We have the glass curtain with aluminium and steel reinforcements.
-        Just by looking at it we know what material it is - which is the point
+        Just by looking at it we know what material it is — which is the point
 
         * Concrete examples of materials /* ba dum tsch */
             * In the Bauhaus there were several key materials used:  
-            * Steel - this was a material for _power_, showing strenth in the builiding.  
-            * Glass - this was to create a sense of transparency, and letting
+            * Steel — this was a material for _power_, showing strenth in the builiding.  
+            * Glass — this was to create a sense of transparency, and letting
             light pour into the building
-            * Concrete - this was to create the industrial asthetic and beauty
+            * Concrete — this was to create the industrial asthetic and beauty
             of raw materials, as well as
               to create the sense strength, helping the Steel
 
 
+<div style="page-break-after: always;"></div>
+
 ## Sea Lane House
 
 * Built by Marcel Breuer in 1936
-![Marcel Breuer](../../sea-lane/images/Breuer-Main_entry_image.png)
+![Marcel Breuer](../../sea—lane/images/Breuer-Main_entry_image.png)
 
-    * Marcel was trained by the Bauhaus - hense the architecture styles both modernist
+    * Marcel was trained by the Bauhaus — hense the architecture styles both modernist
 
 * It was located in the UK
     * In East Preston, West Sussex

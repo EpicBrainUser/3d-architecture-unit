@@ -1,0 +1,9 @@
+ #!/bin/sh
+ pandoc -s -f markdown -t html5 \
+  -o output.pdf \
+  bauhaus_timeline.md \
+  -c styles.css \
+  --metadata pagetitle="Bauhaus Document" \
+  --pdf-engine=wkhtmltopdf \
+  --pdf-engine-opt=--enable-local-file-access
+

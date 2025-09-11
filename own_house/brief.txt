@@ -1,0 +1,23 @@
+Requirements:
+
+sizes:
+
+    platform size: 80m^2
+
+    house size: 50m^2
+
+interior:
+
+    2 bedrooms -- family of four
+    1 bathrooom
+    storage space && utility
+    kitchen
+    living area
+
+Structure must respect and be designed to adapt to its environment
+
+dock needs to have space for TWO 4m boats
+
+The platform may be connected to the shore if no further than 20m away.
+
+Height must reflect waterline (sea vs lake)
