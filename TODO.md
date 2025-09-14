@@ -1,0 +1,21 @@
+# How to complete: guide
+
+- [x] Print off Vernacular/Modernist part of [rendered output](./bauhaus/outputs/output.pdf)
+- [ ] Print off All remaining pages of [rendered output](./bauhaus/outputs/output.pdf)
+- [ ] Use masking tape to stick them in
+- [ ] Label each drawing
+---
+- [x] Choose all locations and put map embeds in
+- [ ] Add a bit of extra info text on each location (convert [this](./bauhaus/outputs/html-stuff.html) html to markdown)
+- [ ] Print off all locations with maps and place in sketch book with masking tape and maybe some labels
+- [ ] Map of UK with places
+- [ ] Choose preferred location with position and reason
+---
+- [ ] Find interesting stilts and references (houses on water)
+- [ ] Draw a cross section of one of them
+---
+- [ ] Include Sol Doc River Cabin reference
+- [ ] Finish all other drawings and place from layout pad to sketch book
+- [ ] Draw actual house (own)
+- [ ] Make in software
+- [ ] Foam core?
