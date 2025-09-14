@@ -3,7 +3,7 @@
 
 ## Vernacular vs Modernist
 
-Defintions:
+Definitions:
 
 > **Vernacular** —
 	Vernacular architecture follows regional, local and traditional styles of architecture. This typically means that fine details are left in for decoration, in stark contrast to modernist architecture.  
@@ -28,7 +28,7 @@ almost only in the UK:
 ### Vernacular — Vietnam
 
 * Vietnam has a very different style of vernacular architecture to the UK, with
-  a large amount of their houses on stils because of the rainy season, and large
+  a large amount of their houses on stilts because of the rainy season, and large
   sloping roofs for the same reason. The materials are also very different,
 relying on hay and mud over bricks and concrete. 
 
@@ -66,7 +66,7 @@ and wooden sticks
 
 ---
 > **Modernist** —   
-	Modernist architecture is following the modernism movement — from traditional forms of art towards more abstract forms. Specifically in architecture, it means to simplify and ‘streamline’ the architecture, which would remove most decorative details instead choosing to replace them with straight edges and right angles. The primary design idea is 'form follows function' — Louis Sullivan, and predicting and designing everything around the function, so how it would be used, and then, only later, if neccessary to add form.
+	Modernist architecture is following the modernism movement — from traditional forms of art towards more abstract forms. Specifically in architecture, it means to simplify and ‘streamline’ the architecture, which would remove most decorative details instead choosing to replace them with straight edges and right angles. The primary design idea is 'form follows function' — Louis Sullivan, and predicting and designing everything around the function, so how it would be used, and then, only later, if necessary to add form.
 
 <div style="page-break-after: always;"></div>
 
@@ -148,7 +148,9 @@ Designed by __Walter Gropius__ (1883 — 1969)
   
   ![Front View of Curtain](../pictures/6265_Dessau.JPG)
 
-* America was is inspiration from this — industrial design from here, for example:
+<div style="page-break-after: always;"></div>
+
+* America was inspiration from this — industrial design from here, for example:
   
   * The grain silos of Canada and South America
   
@@ -182,7 +184,7 @@ Designed by __Walter Gropius__ (1883 — 1969)
 * ### Modernism in the Bauhaus
 
     * Here this would mean that: 
-        * Useage of simpler shapes in design, elimiation of decorative features
+        * Usage of simpler shapes in design, elimination of decorative features
             * So rectangles and spheres are almost entirely the design
         * Rounding off corners for the building, furniture inside the building,
           and walls inside the building are too often rounded off
@@ -194,12 +196,14 @@ Designed by __Walter Gropius__ (1883 — 1969)
 
 
 
+    <div style="page-break-after: always;"></div>
+
     * ##### Materials in Modernism, as seen through the Bauhaus
 
         * Material use in modernism makes use of the idea   
         _"truth to materials"_  
         and  
-        _"material honestry"_  
+        _"material honesty"_  
         Now what does this mean?  
         The concept behind it is, that when you use a material, you should for a
         reason, and explicitly show that you use that material.  
@@ -207,31 +211,34 @@ Designed by __Walter Gropius__ (1883 — 1969)
         concrete, you shouldn't paint over it, or try to disguise the fact that
         you are using steel, but instead show off that you are using steel by
         leaving it bare.  
-        We clearly see this design concept being used when we look at th
-        bauhaus:
+        We clearly see this design concept being used when we look at the
+        Bauhaus:
             We have the glass curtain with aluminium and steel reinforcements.
         Just by looking at it we know what material it is — which is the point
 
-        * Concrete examples of materials /* ba dum tsch */
+            <div style="page-break-after: always;"></div>
+
+
+        * Concrete examples of materials
             * In the Bauhaus there were several key materials used:  
-            * Steel — this was a material for _power_, showing strenth in the builiding.  
+            * Steel — this was a material for _power_, showing strength in the building.  
             * Glass — this was to create a sense of transparency, and letting
             light pour into the building
-            * Concrete — this was to create the industrial asthetic and beauty
+            * Concrete — this was to create the industrial aesthetic and beauty
             of raw materials, as well as
               to create the sense strength, helping the Steel
 
 
 <div style="page-break-after: always;"></div>
 
-## Sea Lane House
-
-* Built by Marcel Breuer in 1936
-![Marcel Breuer](../../sea—lane/images/Breuer-Main_entry_image.png)
-
-    * Marcel was trained by the Bauhaus — hense the architecture styles both modernist
-
-* It was located in the UK
-    * In East Preston, West Sussex
-
-* Heavily inspired by the Bauhaus, the Sea Lane house is also a key example and crucial building in the modernist movement
+<!-- ## Sea Lane House -->
+<!---->
+<!-- * Built by Marcel Breuer in 1936 -->
+<!-- ![Marcel Breuer](../../sea—lane/images/Breuer-Main_entry_image.png) -->
+<!---->
+<!--     * Marcel was trained by the Bauhaus — hence the architecture styles both modernist -->
+<!---->
+<!-- * It was located in the UK -->
+<!--     * In East Preston, West Sussex -->
+<!---->
+<!-- * Heavily inspired by the Bauhaus, the Sea Lane house is also a key example and crucial building in the modernist movement -->
