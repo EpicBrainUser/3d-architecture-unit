@@ -27,6 +27,7 @@
 
 
 
+// add metadata!
 #title[ Personal Project: Architecture]
 
 
@@ -35,47 +36,50 @@
 = Vernacular architecture
 == What is the vernacular?
 
-#quote(block:true, quotes:true)[_Vernacular architecture follows regional, local and traditional styles of architecture. This typically means that fine details are left in for decoration, in stark contrast to modernist architecture. Here, the key design principle is following tradition — which means only the local style. This means a hose in Switzerland will look nothing like a house in England, as each follows the local style._]
+#quote(block:true, quotes:true)[_Vernacular architecture follows regional, local and traditional styles of architecture. This typically means that fine details are left in for decoration, in stark contrast to modernist architecture. Here, the key design principle is following tradition — which means only the local style. This means a house in Switzerland will look nothing like a house in England, as each follows the local style._]
 
 === Vernacular -- UK
 
 - A crucial example of the vernacular in the UK is the terraced houses seen
 almost only in the UK:
-#figure(image("./vernacular/images/uk/img1.jpg", width: 70%))
-#figure(image("./vernacular/images/uk/Edith_Avenue_in_Moss_Side.jpg", width: 70%))
-#figure(image("./vernacular/images/uk/Theed_Street,_Waterloo_-_geograph.org.uk_-_654705.jpg", width: 70%))
+#figure(image("./vernacular/images/uk/img1.jpg", width: 80%))
+#figure(image("./vernacular/images/uk/Edith_Avenue_in_Moss_Side.jpg", width: 80%))
+#figure(image("./vernacular/images/uk/Theed_Street,_Waterloo_-_geograph.org.uk_-_654705.jpg", width: 80%))
 
+#pagebreak()
 === Vernacular -- Vietnam
 
 - Vietnam has a very different style of vernacular architecture to the UK, with a large amount of their houses on stilts because of the rainy season, and large sloping roofs for the same reason. The materials are also very different, relying on hay and mud over bricks and concrete. 
 
 // house on stilts
 #figure(
-image("./vernacular/images/vietnam/stilt-house.jpg", width: 70%),
+image("./vernacular/images/vietnam/stilt-house.jpg", width: 80%),
 caption: [House on stilts]
 )
-#figure(image("./vernacular/images/vietnam/1920px-Ngọ_môn,_Huế.jpg", width: 70%))
-#figure(image("./vernacular/images/vietnam/1920px-Nhà_thời_niên_thiếu_của_Tôn_Đức_Thắng.jpg", width: 70%))
+#figure(image("./vernacular/images/vietnam/1920px-Ngọ_môn,_Huế.jpg", width: 80%))
+#figure(image("./vernacular/images/vietnam/1920px-Nhà_thời_niên_thiếu_của_Tôn_Đức_Thắng.jpg", width: 80%))
 
 
+#pagebreak()
 === Vernacular — Spain
 
 - Spain too has its unique style of architecture
 
-#figure(image("./vernacular/images/spain/central-vernacular.png", width: 70%))
-#figure(image("./vernacular/images/spain/altea.jpg", width: 70%))
-#figure(image("./vernacular/images/spain/valencia.jpg", width: 70%))
+#figure(image("./vernacular/images/spain/central-vernacular.png", width: 80%))
+#figure(image("./vernacular/images/spain/altea.jpg", width: 80%))
+#figure(image("./vernacular/images/spain/valencia.jpg", width: 80%))
 
 
 
+#pagebreak()
 === Vernacular — South Africa
 
 - South African employs again a very different style, mostly huts made of hay
 and wooden sticks
 
-#figure(image("./vernacular/images/southAfrica/img1.jpg", width: 70%))
-#figure(image("./vernacular/images/southAfrica/img2.jpg", width: 70%))
-#figure(image("./vernacular/images/southAfrica/img3.jpg", width: 70%))
+#figure(image("./vernacular/images/southAfrica/img1.jpg", width: 80%))
+#figure(image("./vernacular/images/southAfrica/img2.jpg", width: 80%))
+#figure(image("./vernacular/images/southAfrica/img3.jpg", width: 80%))
 
 = Modernist architecture
 
@@ -107,7 +111,7 @@ Designed by _Walter Gropius_ (1883 -- 1969)
 - Two story construction of the bridge also housing the most prized workshop in the school — the architecture workshop
   - This bridge would be built on stilts — highlighting the fashionable cubist idea of interpenetration of space
   #figure(
-    image("./bauhaus/pictures/bridge.jpeg", width: 70%),
+    image("./bauhaus/pictures/bridge.jpeg", width: 80%),
     caption: [The bridge connecting the Bauhaus and the Technical school],
   )
 
@@ -118,11 +122,11 @@ Designed by _Walter Gropius_ (1883 -- 1969)
 - This has 24 student flats on four floors — the highest section of the building
 - Rooms extend out onto tiny balconies — that provide the feeling of additional space
 // student balconies
-#figure(image("./bauhaus/pictures/Bauhaus-Dessau_Wohnheim_Balkone.jpg", width: 70%))
+#figure(image("./bauhaus/pictures/Bauhaus-Dessau_Wohnheim_Balkone.jpg", width: 80%))
 ====== Housing for the teachers
 - Self Explanatory
 // Housing for Teachers
-#figure(image("./bauhaus/pictures/Casa-Maestros-Bauhaus2-953243935.jpg", width: 70%))
+#figure(image("./bauhaus/pictures/Casa-Maestros-Bauhaus2-953243935.jpg", width: 80%))
 ====== Technical school to train young apprentices (as requested by the Dessau City Council)
 - No glass walls here, these were classrooms so the windows were placed high so as not to distract the students
 - Less prestigious here
@@ -135,10 +139,10 @@ Designed by _Walter Gropius_ (1883 -- 1969)
 
 - The "Glass Curtain" of the workshop bearing no weight was already partially tested in the 'faggus factory' built with Adolf Meyer 
 #figure(
-  image("./bauhaus/pictures/6265_Dessau.JPG", width: 70%),
+  image("./bauhaus/pictures/6265_Dessau.JPG", width: 80%),
   caption: [Front view of Curtain]
 )
-- America was inspiration from this — industrial design from here, for example:
+- America was inspired by this — industrial design from here, for example:
   - The grain silos of Canada and South America
   - The coal silos of the huge railway lines
   - The most modern workshops of the North American companies
@@ -154,7 +158,7 @@ Designed by _Walter Gropius_ (1883 -- 1969)
   - Thousands of people came to watch this
 - At 43, the Architect, Walter Gropius was also its director
 #figure(
-  image("./bauhaus/pictures/WalterGropius-1919.jpg", width: 70%),
+  image("./bauhaus/pictures/WalterGropius-1919.jpg", width: 80%),
   caption: [Walter Gropius]
 )
 
@@ -169,20 +173,157 @@ Designed by _Walter Gropius_ (1883 -- 1969)
 
 
 ===== Materials in Modernism, as seen through the Bauhaus
-        - Material use in modernism makes use of the idea _"truth to materials"_  and  _"material honesty"_  Now what does this mean?  The concept behind it is, that when you use a material, you should for a reason, and explicitly show that you use that material.  So, if you make a steel pillar, don't hide that fact you are using concrete, you shouldn't paint over it, or try to disguise the fact that you are using steel, but instead show off that you are using steel by leaving it bare.  We clearly see this design concept being used when we look at the Bauhaus: We have the glass curtain with aluminium and steel reinforcements. Just by looking at it we know what material it is — which is the point
+        - Material use in modernism makes use of the idea _"truth to materials"_  and  _"material honesty"_  Now what does this mean?  The concept behind it is, that when you use a material, you should for a reason, and explicitly show that you use that material.  So, if you make a steel pillar, don't hide that fact you are using concrete, you shouldn't hide it, or try to disguise the fact that you are using steel, but instead show off that you are using steel by leaving it bare.  We clearly see this design concept being used when we look at the Bauhaus: We have the glass curtain with aluminium and steel reinforcements. Just by looking at it we know what material it is — which is the point
         - Concrete examples of materials
             - In the Bauhaus there were several key materials used:  
             - Steel — this was a material for _power_, showing strength in the building.  
             - Glass — this was to create a sense of transparency, and letting light pour into the building
-            - Concrete — this was to create the industrial aesthetic and beauty of raw materials, as well as to create the sense strength, helping the Steel
+            - Concrete — this was to create the industrial aesthetic and beauty of raw materials, as well as to create the sense of strength
 
+
+#pagebreak()
 == Modernism as seen in different regions 
 
-== The design philosophy, and crucial features
+=== Modernism -- UK: National Theatre
+
+#figure(
+  image("./modernist/images/19_4_2018_Royal_National_Theatre_axis_view.jpg", width: 80%),
+  caption: [The Royal National Theatre, axis view]
+)
+This is the Royal National Theatre, designed by Denys Lasdun, completed in 1976. This building follows Brutalism, which is a style of modernism. Here we see a uniformity in materials using only glass and heavy concrete.
+
+=== Modernism -- Vietnam: Hanoi Museum
+
+#figure(
+  image("./modernist/images/Hanoi_Museum_01a.jpeg", width: 80%),
+  caption: [The Hanoi Museum]
+)
+
+This building blends modernism and cultural elements, with its shape supposedly representing a rice bowl. Again we see deliberate material choice: concrete, steel and glass.
+
+=== Modernism -- US: Farnsworth House
+
+#figure(
+  image("./modernist/images/FarnsworthHouse-Mies-5.jpg", width: 80%),
+  caption: [The Farnsworth House, exterior]
+)
+While the historic Farnsworth House is associated more with the International Style of architecture, it nonetheless has strong ties to modernism with its focus on utility. The design is also very simple, just a glass and steel box. A key idea from this house is the blend between the exterior and the interior through the massive floor-ceiling windows, something I would later take for my own project.
+
+#figure(
+  image("./modernist/images/FarnsworthHouse-Mies-6-interior.jpg", width: 80%),
+  caption: [The Farnsworth House, interior]
+)
+Here we see less walls than you might expect, creating a much more open living space in the house. This also uses the design philosophy _"Form Follows Function"_.
+
+=== Modernism -- France: Villa Savoye
+
+#figure(
+  image("./modernist/images/VillaSavoye.jpg", width: 80%),
+  caption: [Villa Savoye]
+)
+Once again, we see concrete, steel and glass used almost exclusively, with no decoration, and flat roofs.
+
+== The design philosophy behind Modernism, practically speaking
 === The key idea
+Mostly, modernism hinges on:
+#quote(block: true, quotes: auto, attribution: [Louis Sullivan])[
+  Form follows function
+] \
+stating that everything that is placed in a design should have a purpose. Hence this led to much more stripped back, clean looking buildings. \
+For example, instead of building in columns "because older buildings had them", Modernism asks "do we need them?", and if no, then they are removed.
+=== Ornamentation (lack thereof)
+Ornamentation serves no function, only aesthetics, and tradition. So Modernism was a large step away from older styles. The 'beauty' from modernism should come from materials, simplicity and structure rather than explicit ornamentation.
 === Windows
+As seen with the residential Farnsworth House, and the Bauhaus, windows have a single purpose: to let in light. \
+So we should use windows to make them do their job. \
+How do we do this?\
+We make very large, floor-ceiling windows, that fill the interior living space with light. 
+Perhaps the most obvious example is Glass House:
+#figure(
+  image("./modernist/images/Glasshouse-philip-johnson.jpg", width: 80%),
+  caption: [The Glass House]
+)
+But we see other examples of large windows, such as in the Bauhaus:
+#figure(
+  image("./modernist/images/bauhaus_windows.jpeg", width: 80%),
+  caption: [Bauhaus, Technical school windows]
+)
+
 === Materials
+As I had already mentioned in the Bauhaus, Modernism holds the belief of _"Truth to Materials"_, where materials should be used where appropriate, and for what they were made for. The primary materials used were: \
+- Concrete
+- Glass
+- Steel
+When designing, the choice of material should be obvious to the viewer. If you need a steel frame, make it visible.
+
+=== Interior design
+As seen in the Farnsworth house and the Villa Savoye, the floor plans are very open, often removing walls, and more flexible layouts for the person living inside.
 === Overall shape of design
+Overall complex geometry is removed, as the goal with modernism is to create functional spaces.
+
+
+== Three more examples
+For each of these buildings my task was to attempt to sketch two elevations and a plan view of these buildings, without the dimensions. 
+
+=== FOM University Pavilion
+This was designed by J. Mayer H. Architects in 2023 as part of the FOM University Campus in Duesseldoft. 
+#figure(
+  image("./modernist/images/fom-university-pavilion-j-mayer-h-architects_4.jpg", width: 80%),
+  caption: [A corner of the pavilion]
+)
+#figure(
+  image("./modernist/images/fom-university-pavilion-j-mayer-h-architects_11.jpg", width: 80%),
+  caption: [Under the roof of the pavilion]
+)
+#figure(
+  image("./modernist/images/fom-university-pavilion-j-mayer-h-architects_9.jpg", width: 80%),
+  caption: [Pavilion as seen from the side]
+)
+
+#figure(
+  rotate(90deg)[#image("./modernist/organic-sketch.pdf", width: 90%)],
+  caption: [FOM University Pavilion sketches]
+)
+
+#pagebreak()
+=== Timber Residence
+This building was designed by _'Architecture Discipline'_ also in 2023, in India. One of the goals of this house was to be more ecologically sustainable, relying less on conctrete to reduce carbon emissions.
+
+#figure(
+  image("./modernist/images/timber-residence-architecture-discipline_5.jpg", width: 80%),
+  caption: [The back of the house, showing its frame]
+)
+
+#figure(
+  image("./modernist/images/timber-residence-architecture-discipline_2.jpg", width: 80%),
+  caption: [The house in context]
+)
+#figure(
+  image("./modernist/images/timber-residence-architecture-discipline_3.jpg", width: 80%),
+  caption: [Top view of the house]
+)
+
+#figure(
+  rotate(90deg)[
+    #image("./modernist/angled-entrance-sketch.pdf", width: 90%)],
+  caption: [Timber residence sketches]
+)
+
+
+#pagebreak()
+=== Pylon of Permanence
+Similar to the previous example, _Pylon of Permanence_ attempts to address some environmental concern surrounding construction. This was designed in 2025 at the Venice Architecture Biennale, and uses a glazing system coined 'Water-Filled Glass'. This was in response to conventional glass, which has a carbon footprint that surpasses concrete, steel and brick. This project uses an alternative approach by turning glass into an 'active energy regulator'.
+
+#figure(
+  image("./modernist/images/pylon-of-permanence-showcases-water-filled-glass-at-the-venice-architecture-biennale-2025_14.jpg", width: 80%),
+  caption: [Pylon of Permanence]
+)
+
+#figure(
+  rotate(270deg)[
+    #image("./modernist/pylon-of-permenance-sketch.pdf", width: 90%)],
+  caption: [Pylon of Permanence sketches]
+)
 
 #pagebreak()
 // #box(
@@ -206,19 +347,51 @@ Designed by _Walter Gropius_ (1883 -- 1969)
 = Location and position
 For this project one of the primary features is that it is located on water, and therefore must be designed with both extra consideration to access, as well as consideration for raising the house structure above the water. 
 
-== Possible location 1: 54°28'53.0"N 5°36'28.4"W, [location]
+// == Possible location 1: 54°28'53.0"N 5°36'28.4"W, Strangford Lough
+== Possible location 1: Strangford Lough
+#figure(
+  image("./own_house/location_1.png", width: 100%),
+  caption: [Location 1, map placement]
+)
+#figure(
+  image("./own_house/location_1_street.png", width: 100%),
+  caption: [Location 1, street view]
+)
 === Positives
+- Open area
 === Negatives
-== Possible location 2: 52°43'21.0"N 4°03'15.1"W  [location]
+- Further from mainland
+== Possible location 2: Barmouth
+// == Possible location 2: 52°43'21.0"N 4°03'15.1"W  [location]
+#figure(
+  image("./own_house/location_2.png", width:100%),
+  caption: [Location 2, map placement]
+)
+#figure(
+  image("./own_house/location_2_street.png", width: 100%),
+  caption: [Location 2, street view]
+)
 === Positives
+- More open, and opens up to the ocean
 === Negatives
-== Possible location 3: Loch Linnhe
+- Ocean may prove to be damaging for house due to salty water
+== Possible location 3: Loch Linnhe/ Loch Leven
+#figure(
+  image("./own_house/location_3.png", width:100%),
+  caption: [Location 3, map placement]
+)
+#figure(
+  image("./own_house/location_3_street.png", width:100%),
+  caption: [Location 3, street view]
+)
 === Positives
+- Has vegetation in the area
+- Has mountains around, more scenic 
 === Negatives
+- Further north, perhaps colder weather
 
 == Location choice: Loch Linnhe
-My choice for the location was Loch Linnhe, because the water looked clean the surrounding geography looked peaceful and it looked like the right place for the kind of house that would be built. This is the final placement of the house on the water: 
-// [image]
+My choice for the location was Loch Leven, because the water looked transparent, the surrounding geography looked peaceful and it looked like the right place for the kind of house that would be built.
 
 == Orientation
 Since this location is in Scotland, which is quite far North, the part of the house facing south would receive the most sunlight. This is a point that I will return to.
@@ -231,13 +404,14 @@ Exterior: \
     - Maximum platform size: $80m^2$ \
     - Maximum house footprint size: $50m^2$ \
     - Structure must respect and be designed to adapt to its environment \
-    - Dock needs to have space for two 4m boats \
+    // - Dock needs to have space for two 4m boats \
     - The platform may be connected to the shore if no further than 20m away. \
+    - Dock is required, and to have space for two 4m boats if not connected to land
     - Height must reflect waterline (sea vs lake) \
 
 Interior: \
     - 3 bedrooms -- family of four \
-    - 1 bathroom \
+    - 2 bathrooms \
     - Storage space \
     - Utility room \
     - Kitchen \
@@ -248,20 +422,23 @@ Interior: \
 
 = Model v1
 
-== Inspiration: Sol Duc River Cabin
-[images]
+== Direct Inspiration: Sol Duc River Cabin
+#figure(
+  image("./own_house/10018_00_Sol_Duc_Cabin_BB_N2-2160x2591.webp", width: 80%),
+  caption: [The Sol Duc River Cabin, seen from the front]
+)
 This small cabin gave inspiration for the initial design, though it would go on to change. From here I got the ideas for the base platform, the larger roof, and the front glass (even though this would eventually go in favour of more, smaller windows).
 
 == Work in software
 This was a very simple blockout of the house, focusing on just exterior 'shell' of the house, rather than worrying about the interior. \
 The main features of structural interest are the slanted roof (for allowing precipitation to fall off easily), and the stilts because of the location. 
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.30.41.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.30.41.png", width: 80%),
   caption: [Model 1 in software, side view showing the roof slant.]
 )
 
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.30.12.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.30.12.png", width: 80%),
   caption: [Front view of model 1]
 )
 While I didn't design an interior for model 1, this was something that I began thinking about as I was making it. Here you can see that I opted for an open front, which if it were made would be filled with glass to illuminate the interior much better. Since I wanted there to be a lot of light that fills the house, the part of the house with the most windows facing out would be the part of the house that is facing south. In this model, this large glass wall would be facing south. 
@@ -272,7 +449,7 @@ While I didn't design an interior for model 1, this was something that I began t
 
 ==== Stilts and base
 #figure(
-  image("./own_house/typst/photos/stilts_alone.jpg", width: 70%),
+  image("./own_house/typst/photos/stilts_alone.jpg", width: 80%),
   caption: [Stilts design, printed],
 )
 
@@ -296,19 +473,19 @@ Here we can see two sets of stilts that are angled, and they are complementary b
 ==== First floor
 
 #figure(
-  image("./own_house/typst/photos/IMG_20251107_124228_232.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20251107_124228_232.jpg", width: 80%),
   caption: [The first (middle) floor]
 )
 
 ==== Top floor
 #figure(
-  image("./own_house/typst/photos/IMG_20251107_124239_235.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20251107_124239_235.jpg", width: 80%),
   caption: [The top floor]
 )
 As shown here, the top floor has a tilted roof for a feeling of a greater height in the front of the floor, as well as allowing for precipitation to easily slide off the roof.
 
 #figure(
-  image("./own_house/typst/photos/IMG_20251107_124429_776.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20251107_124429_776.jpg", width: 80%),
   caption: [Roof Slant]
 )
 This is how the roof would be slanted.
@@ -317,7 +494,7 @@ This is how the roof would be slanted.
 
 //
 // #figure(
-//   image("./own_house/typst/photos/asm_difference_far.jpg", width: 70%),
+//   image("./own_house/typst/photos/asm_difference_far.jpg", width: 80%),
 //   caption: [Difference in construction.]
 // )
 
@@ -336,7 +513,7 @@ This is a deliberate choice because the ground floor has the platform which woul
 )
 
 #figure(
-  image("./own_house/typst/photos/front_edge.jpg", width: 70%),
+  image("./own_house/typst/photos/front_edge.jpg", width: 80%),
   caption: [The window frames hang over the edge of the floor]
 )
 
@@ -344,33 +521,33 @@ Here was another point that I took into consideration: \
 The glass placed in front wouldn't be a massive single piece, it would be a set of multiple very large panes, and therefore would require steel frames. Therefore this overhang was necessary to fit the glass in. 
 
 // #figure(
-//   image("./own_house/typst/photos/assembly_difference.jpg", width: 70%),
+//   image("./own_house/typst/photos/assembly_difference.jpg", width: 80%),
 //   caption: []
 // )
 
 // #figure(
-//   image("./own_house/typst/photos/first_floor_back.jpg", width: 70%),
+//   image("./own_house/typst/photos/first_floor_back.jpg", width: 80%),
 //   caption: []
 // )
 
 // #figure(
-//   image("./own_house/typst/photos/first_floor_front.jpg", width: 70%),
+//   image("./own_house/typst/photos/first_floor_front.jpg", width: 80%),
 //   caption: []
 // )
 
 === The completed model
 #figure(
-  image("./own_house/typst/photos/IMG_20251107_124634_161.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20251107_124634_161.jpg", width: 80%),
   caption: [Full house, as seen from the front.]
 )
 #figure(
-  image("./own_house/typst/photos/IMG_20251107_124738_027.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20251107_124738_027.jpg", width: 80%),
   caption: [Full house, as seen from the back.]
 )
 
 === Learning points
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.03.13.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.03.13.png", width: 80%),
   caption: [Dead space on the sides]
 )
 #grid(columns: 2, 
@@ -389,49 +566,49 @@ Here are some learning points from model one:
 
 // stilts and pipe
 // #figure(
-//   image("./own_house/typst/photos/IMG_20251107_124135_042.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20251107_124135_042.jpg", width: 80%),
 //   caption: []
 // )
 // ground floor
 // #figure(
-//   image("./own_house/typst/photos/IMG_20251107_124204_046.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20251107_124204_046.jpg", width: 80%),
 //   caption: []
 // )
 //
 // #figure(
-//   image("./own_house/typst/photos/IMG_20251107_124215_929.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20251107_124215_929.jpg", width: 80%),
 //   caption: []
 // )
 
 // #figure(
-//   image("./own_house/typst/photos/IMG_20251107_124328_170.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20251107_124328_170.jpg", width: 80%),
 //   caption: []
 // )
 
 // #figure(
-//   image("./own_house/typst/photos/IMG_20251107_124347_205.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20251107_124347_205.jpg", width: 80%),
 //   caption: []
 // )
 // #figure(
-//   image("./own_house/typst/photos/IMG_20251107_124400_489.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20251107_124400_489.jpg", width: 80%),
 //   caption: []
 // )
 
 
 // #figure(
-//   image("./own_house/typst/photos/IMG_20251107_124943_144.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20251107_124943_144.jpg", width: 80%),
 //   caption: []
 // )
 // #figure(
-//   image("./own_house/typst/photos/IMG_20251107_125230_060.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20251107_125230_060.jpg", width: 80%),
 //   caption: []
 // )
 // #figure(
-//   image("./own_house/typst/photos/IMG_20251107_125231_964.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20251107_125231_964.jpg", width: 80%),
 //   caption: []
 // )
 // #figure(
-//   image("./own_house/typst/photos/IMG_20251107_125241_782.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20251107_125241_782.jpg", width: 80%),
 //   caption: []
 // )
 
@@ -440,22 +617,56 @@ Here are some learning points from model one:
 == Interior design
 For this model, I would also design the interior spaces, as stated in the brief. Here were some of my ideas for the interior.
 
-== Top floor designs
-== Ground floor designs
-== Between the floors
-I really liked the idea of a spiral staircase for how they look as well as for how they can make designing the interior layout somewhat easier because the stairs are all in one place as opposed to a straight staircase where the start of them on one floor is on the opposite side of the room as to where they finish on the next floor. 
-=== Initial ideas
-[image]
-When I first thought about designing a floor plan with a spiral staircase, I considered adding a landing area the width of the staircase as shown below. 
+=== Top floor designs
+
+#figure(
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.29.40.png", width: 80%),
+  caption: [Top floor early designs.]
+)
+
+This was one of the first floor plans that I made. Here was the issue:
+There's an absolutely massive landing area, and a really long and pretty useless corridor. \
+While I have (unfortunately) seen air bnbs like this, I felt this was a pretty bad design from the perspective of the person living in it, so this required redesigns.
+
+// needs labling?
+// #figure(
+//   image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.28.06.png", width: 80%),
+//   caption: [Plan of the top floor.]
+// )
+
+I had a look at some floor plans and found a layout that I liked the look of:
+#figure(
+  image("./own_house/typst/photos/2026-05-05-164534_hyprshot.png", width: 80%),
+  caption: [Floor plan inspiration]
+)
+While the dimensions were too big for my house, I ended up adapting the idea and borrowing the placement of the landing for the bedrooms, as shown below.
 
 
-However this design wastes a huge amount of space, which we don't have a lot of. Therefore I had to rethink the design.
+#figure(
+  image("./own_house/typst/photos/2026-05-04-162639_hyprshot.png", width: 80%),
+  caption: [Plan of my top floor.]
+)
 
-=== Final choice for positioning
+#figure(
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.27.50.png", width: 100%),
+  caption: [Isometric view of the top floor.]
+)
 
-== Work in software
+=== Ground floor designs
+#figure(
+  image("./own_house/typst/photos/Screenshot 2026-05-04 202809.png", width: 80%),
+  caption: [Ground Floor]
+)
+Here you can see I have a small bathroom, a storage area, the staircase, a kitchen unit, a dining table and some living space. I have deliberately added fewer walls in the main area, to give the impression of space. 
 
-=== Spiral staircase
+
+=== Between the floors
+I really liked the idea of a spiral staircase for how they look as well as for how they can make designing the interior layout somewhat easier because the stairs are all in one place as opposed to a straight staircase where the start of them on one floor is on the opposite side of the room as to where they finish on the next floor. \
+As shown above, I considered making a large landing space for the spiral staircase, but after seeing how much room this wastes, I needed to alter design.
+
+=== Work in software
+
+==== Spiral staircase
 // I wanted a spiral staircase, and the main problem I had neglected while sketching is that I would require a 'landing' area, so that you can walk out onto the floor easily. This meant that I couldn't have a single spiral staircase as a single array going upwards, but rather I would need one for each floor, and the same. \
 // Here I did some maths for how many steps, of what height, and the diameter etc: \
 //
@@ -481,121 +692,128 @@ However this design wastes a huge amount of space, which we don't have a lot of.
 
 // First staircase
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 11.57.52.png", width: 70%),
-  caption: []
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 11.57.52.png", width: 80%),
+  caption: [First design of stairs]
 )
-// Staircase top issue
+At first I didn't realise that I needed to have some space with no rise, to accommodate for getting onto and off of the stairs, which led to a design like this. You may also notice that there is only one connection to the railing per step, which was not enough. 
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 11.58.48.png", width: 70%),
-  caption: []
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 11.58.48.png", width: 80%),
+  caption: [Problematic top of the stairs]
 )
+Also, I needed to make sure the rotation was fitting where on all the floors getting on and off the stairs was easy. These were some of the issues that I faced. \
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.24.11.png", width: 70%),
+  image("./own_house/Skelmersdale-spiral-stair-l.webp", width: 80%),
+  caption: [Spiral staircase reference]
+)
+In this image you can also see that the stairs don't have to be so thick.
+#figure(
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.24.11.png", width: 80%),
   caption: [Final staircase in blender, with all problems fixed.]
 )
+In the end, I opted to have the stairs take up 270 degrees of rotation ($3/4$ of a circle), and leave the other 90 degrees for the landing per floor. This meant the stairs would start and end at the same spot on every floor. Also the height of the stairs had to be reduced and the number increased to comply with building regulations.
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.24.46.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.24.46.png", width: 80%),
   caption: [The landing between floors, with overlapping regions.]
 )
 My solution to the landings was the make a slightly overlapping section under the first step to make sure that your leg wouldn't get caught in the gap.
 // belongs next to floor plans
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.26.06.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.26.06.png", width: 80%),
   caption: [Top floor landing, first person perspective.]
 )
-#figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.27.50.png", width: 70%),
-  caption: [Isometric view of the top floor.]
-)
-// needs labling?
-#figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.28.06.png", width: 70%),
-  caption: [Plan of the top floor.]
-)
+
+
+
+
+=== Windows
 
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.29.40.png", width: 70%),
-  caption: [Top floor early designs.]
-)
-This was one of the first floor plans that I made. Here was the issue:
-There's an absolutely massive landing area, and a really long and pretty useless corridor. \
-While I have (unfortunately) seen air bnbs like this, I felt this was a pretty bad design from the perspective of the person living in it, so this required redesigns.
-
-#figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.30.12.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.30.12.png", width: 80%),
   caption: [Front view, earlier designs]
 )
-Here I decided the stairs needed windows for light, so I placed three identical ones for each landing area. The concept would stay, but not in this way.
+Here I decided the stairs needed windows for light, so I placed three identical windows for each landing area. The concept would stay, but not in this way. 
 
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.33.46.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.38.40.png", width: 80%),
+  caption: [East facing windows]
+)
+
+On the ground floor, these would illuminate the dining room, on the top floor these would light the master bedroom. 
+
+#figure(
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.38.49.png", width: 80%),
+  caption: [South facing windows]
+)
+This would be the living room on the ground floor, and one of the bedrooms on the top floor. The small window is for the bathroom.
+#figure(
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.39.00.png", width: 80%),
+  caption: [West facing windows]
+)
+This is for the bedroom on the top floor.
+
+At first I considered opting for big windows like these, however looking back at modernist houses, these windows wouldn't have been big enough, because modernism likes to employ floor-ceiling windows instead. \
+
+
+
+#figure(
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.33.46.png", width: 80%),
   caption: [Windows for the staircase]
 )
-In the end when I placed the staircase, I opted for vertical windows to illuminate the steps.
+In the end when I placed the staircase, I opted for vertical windows to illuminate the steps. This would not receive much light as it is North facing.
 
 // Floor-ceil
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.34.30.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.34.30.png", width: 80%),
   caption: [Window configuration.]
 )
+As you can see I took the previous windows I had and extended them to be floor-ceiling windows. The only exception is the small window found in the bathroom.
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.34.52.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.34.52.png", width: 80%),
   caption: [More windows]
 )
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.34.57.png", width: 70%),
-  caption: []
-)
-#figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.35.33.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.34.57.png", width: 80%),
   caption: [House slant]
 )
 As shown here, I kept the slant of the roof, with the higher part of the roof facing south, but I rotated the entire house so that more of the house would be exposed to sunlight.
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.36.13.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.35.33.png", width: 80%),
   caption: [Wall height differences.]
 )
 This decision meant that all interior walls also had to be of a different and non-standard heights, which made this section of the house quite tedious to build.
-
-
 #figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.38.40.png", width: 70%),
+  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.36.13.png", width: 80%),
   caption: [Positioning fixed in software]
 )
+
 I ended up changing the positioning of the house on the platform as a lesson from model 1. This gave me much more space just outside the house, and less of it wasted.
 
-
-#figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.38.49.png", width: 70%),
-  caption: [Original windows]
-)
-#figure(
-  image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.39.00.png", width: 70%),
-  caption: [Original windows]
-)
+== The middle floor
+When I first read the brief, I though to myself: I'll need the ground floor for the kitchen, the dining room, some storage space and a bathroom, and the top floor will all be just bedrooms. So I'll need another floor to have a living area. \
+But then I looked at how the floor plan I designed for the ground floor fit together, and realised if I remove some of the walls, as you can see with floor plan, the space opens up and there's enough room for some living space. I believe that I couldn't justify another floor just for office spaces for the people living inside, so I may as well just have two floors: so I removed this middle floor, as you'll see in the models.
 
 // Last model
 
 #figure(
-  image("./own_house/typst/photos/IMG_20260427_164438_048.jpg", width: 70%),
-  caption: []
-)
-#figure(
-  image("./own_house/typst/photos/IMG_20260427_164442_397.jpg", width: 70%),
-  caption: []
+  image("./own_house/typst/photos/IMG_20260427_164438_048.jpg", width: 80%),
+  caption: [Model 2, south facing]
 )
 // #figure(
-//   image("./own_house/typst/photos/IMG_20260427_164504_549.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20260427_164442_397.jpg", width: 80%),
+//   caption: []
+// )
+// #figure(
+//   image("./own_house/typst/photos/IMG_20260427_164504_549.jpg", width: 80%),
 //   caption: []
 // )
 
 #figure(
-  image("./own_house/typst/photos/IMG_20260427_164526_600.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20260427_164526_600.jpg", width: 80%),
   caption: [Top floor layout]
 )
 Here on the top floor, there are two smaller single bedrooms, both of which share a bathroom via the landing, and a master bedroom which has a bathroom and wardrobe.
 #figure(
-  image("./own_house/typst/photos/IMG_20260427_164854_645.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20260427_164854_645.jpg", width: 80%),
   caption: [The ground floor layout]
 )
 
@@ -604,59 +822,93 @@ Here you can see the ground floor layout:
 - On bottom left is the living room
 - On the right is the kitchen up top, and the dining room at the bottom, with no wall separation between the kitchen living room or dining room because this gives the better impression of space. 
 #figure(
-  image("./own_house/typst/photos/IMG_20260427_164929_135.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20260427_164929_135.jpg", width: 80%),
   caption: [Stairs, printed]
 )
 These were very very fragile, so I didn't risk taking the supports off, and they looked visually interesting, perhaps 'organic' anyway. 
 // #figure(
-//   image("./own_house/typst/photos/IMG_20260427_165211_450.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20260427_165211_450.jpg", width: 80%),
 //   caption: []
 // )
 
 #figure(
-  image("./own_house/typst/photos/IMG_20260427_165212_750.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20260427_165212_750.jpg", width: 80%),
   caption: [The back of the house, showing the door entrance.]
 )
 On the right, on the ground floor the window is for the living room, on the top it is for the bedroom.
 #figure(
-  image("./own_house/typst/photos/IMG_20260427_165630_021.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20260427_165630_021.jpg", width: 80%),
   caption: [The front of the house]
 )
 Here you can see the front part of the house, with the largest set of floor-ceiling windows. On the ground floor interior, this would be the kitchen and dining room, and behind that the living room, and on the top floor this would be the master bedroom. 
 
 // #figure(
-//   image("./own_house/typst/photos/IMG_20260427_165731_278.jpg", width: 70%),
+//   image("./own_house/typst/photos/IMG_20260427_165731_278.jpg", width: 80%),
 //   caption: []
 // )
 
 #figure(
-  image("./own_house/typst/photos/IMG_20260427_165732_278.jpg", width: 70%),
+  image("./own_house/typst/photos/IMG_20260427_165732_278.jpg", width: 80%),
   caption: [The North-facing part of the house]
 )
 This is the North-facing part of the house, which would be illuminated by the windows shown here. 
 The small window up top is for the bathroom, for ventilation.
 
+== Materials for the construction
+I considered what materials I should use for the house, in order for it to reflect modernism and 'truth to materials'. \
+I came up with this:
+- The stilts will be made of steel, because they need to withstand the weight
+- The platform will be made of reinforced concrete, with no additional aesthetic treatment
+- The floor separator and roof will also be made of steel
+- The walls will be made of reinforced concrete, much like the Villa Savoye, and will be bleached white with chemical treatment to give the 'modernist' look of a purely white house.
+- The window frames will be made of black steel
+- The platform attachment to land will be made of wooden planks, as this doesn't need to appear strong, nor will this be subjected to much wear (it's a lake, so no wave forces or similar)
 
 
+== Attachment to land
+As you may have seen, I in my final model I added an attachment to the land, to complete the brief. The model is a simplified version, and my full solution is visible in the render booklet. Here are some images that show it.
+#figure(
+  image("./own_house/1.png", width:80%),
+  caption: [Render showing the attachment to land]
+)
+#figure(
+  image("./own_house/3.png", width:80%),
+  caption: [Render showing the attachment to land, while walking on it]
+)
+
+#pagebreak()
+== Conclusion
+Hence I have finished the house, satisfying the brief: 
+- It is on water on stilts, in a suitable location
+- It fits the requirements for the platform and the house size, with my house being 6 by 8 meters
+- There is an attachment to the land
+- The height is not very high above land because this is a lake/loch, meaning that tides to not influence it as much.
+- There are three bedrooms, two bathrooms, some storage space, a utility room, a kitchen and living area
+\
+And perhaps most importantly I have attempted to stay true to modernism in this project:
+- My materials, consisting of mostly concrete, steel and glass (with some wood) fit modernism
+- I used simple geometric shapes, where everything placed has a function.
+- My design uses 'form follows function', creating open floor plans, and having no ornamentation
+
 
 // #figure(
-//   image("./own_house/typst/photos/second_floor_front.jpg", width: 70%),
+//   image("./own_house/typst/photos/second_floor_front.jpg", width: 80%),
 //   caption: []
 // )
 // #figure(
-//   image("./own_house/typst/photos/stilts_alone.jpg", width: 70%),
+//   image("./own_house/typst/photos/stilts_alone.jpg", width: 80%),
 //   caption: []
 // )
 // #figure(
-//   image("./own_house/typst/photos/top_far.jpg", width: 70%),
+//   image("./own_house/typst/photos/top_far.jpg", width: 80%),
 //   caption: []
 // )
 // #figure(
-//   image("./own_house/typst/photos/top_floor_front.jpg", width: 70%),
+//   image("./own_house/typst/photos/top_floor_front.jpg", width: 80%),
 //   caption: []
 // )
 // #figure(
-//   image("./own_house/typst/photos/top_floor_roof.jpg", width: 70%),
+//   image("./own_house/typst/photos/top_floor_roof.jpg", width: 80%),
 //   caption: []
 // )
 //
