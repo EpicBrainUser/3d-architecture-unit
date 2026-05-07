@@ -652,12 +652,117 @@ While the dimensions were too big for my house, I ended up adapting the idea and
   caption: [Isometric view of the top floor.]
 )
 
+
+// Bedrooms
+//
+//
+// Top floor landing
+// Top floor master bedroom
+
+
 === Ground floor designs
+At first when I started planning the ground floor I started thinking in rooms, in the sense that I wanted:
+- A small bathroom
+- A living room
+- A dining room
+- A kitchen
+
+So I started adding rooms and shuffling them around to get the best fit. 
+Here are some images of how these rooms would feel.
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/Screenshot 2026-05-07 221108.png", width: 80%),
+  caption: [Kitchen set]
+)
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/Screenshot 2026-05-07 221126.png", width: 80%),
+  caption: [Dining room]
+)
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/Screenshot 2026-05-07 221139.png", width: 80%),
+  caption: [Living room]
+)
+
+
+But then I realised I was making a mistake by forcing these walls in:
+- Firstly I was making the rooms feel smaller by adding more walls, which was problematic
+- Secondly, I was going against the modernist philosophy of interior design: because I was forcing the use case, rather than leaving it to the inhabitants 
+\
+So instead of this, I got rid of some of the walls, linking the kitchen and dining room, and the living room and the dining room. This still separated the living room from the kitchen by distance, a corner and the dining room. 
+\
+This is the same room but with the walls removed:
+
+// #grid(
+//   columns: 2, 
+//   gutter: 2pt, 
+//   align: center + horizon, 
+//   figure(
+//   image("./own_house/typst/photos/house_new_examples/small_dining_room.png", width: 100%),
+//   caption: [Dining room with wall],
+//   ),
+//   figure(
+//     image("./own_house/typst/photos/house_new_examples/wall_removed_dining_room.png", width: 100%),
+//     caption: [Dining room without wall],
+//   )
+// )
+
+// #grid(
+//   columns: 2, 
+//   gutter: 2pt, 
+//   align: center + horizon, 
+#figure(
+  image("./own_house/typst/photos/house_new_examples/small_dining_room.png", width: 80%),
+  caption: [Dining room with wall],
+  )
+  //,
+  #figure(
+    image("./own_house/typst/photos/house_new_examples/wall_removed_dining_room.png", width: 80%),
+    caption: [Dining room without wall],
+  )
+
+Suddenly there feels like there's a lot more space, and it doesn't feel as small and claustrophobic. 
+Here's another set of renders that show the difference well:
+
+// #grid(
+//   columns: 2, 
+//   gutter: 2pt, 
+//   align: center + horizon, 
+//   figure(
+//   image("./own_house/typst/photos/house_new_examples/living_room_small.png", width: 100%),
+//   caption: [Living room with wall],
+//   ),
+//   figure(
+//     image("./own_house/typst/photos/house_new_examples/living_room_large.png", width: 100%),
+//     caption: [Living room without wall],
+//   )
+// )
+//
+
+// #grid(
+//   columns: 2, 
+//   gutter: 2pt, 
+//   align: center + horizon, 
+#figure(
+  image("./own_house/typst/photos/house_new_examples/living_room_small.png", width: 80%),
+  caption: [Living room with wall],
+  )
+  //,
+  #figure(
+    image("./own_house/typst/photos/house_new_examples/living_room_large.png", width: 80%),
+    caption: [Living room without wall],
+  )
+// )
+
+#pagebreak()
+
+Here is the floor plan for the ground floor, taking into account the differences seen with adding and removing walls in the renders.
 #figure(
   image("./own_house/typst/photos/Screenshot 2026-05-04 202809.png", width: 80%),
   caption: [Ground Floor]
 )
-Here you can see I have a small bathroom, a storage area, the staircase, a kitchen unit, a dining table and some living space. I have deliberately added fewer walls in the main area, to give the impression of space. 
+Here you can see I have a small bathroom, a storage area, the staircase, a kitchen unit, a dining table and some living space. 
 
 
 === Between the floors
@@ -726,12 +831,81 @@ My solution to the landings was the make a slightly overlapping section under th
 
 
 === Windows
+Since the whole point of windows is to let light in, the best way to understand where it is best to put windows is to see the effect they have on the lighting of the house. For this reason, I will use a lot of raytraced renders in this section -- which is where the 3d software simulates the light rays coming in, and follows their paths and bounces until it reaches the virtual camera. This is a good approximation of how actual sunlight will light the house. \
+
+As you have seen from model 1: the window option that I went for was simply a massive glass window in the front and little other windows. This was taken in part from the Sol Duc river cabin, and initially I thought this would be a great idea. 
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/light_box.png", width: 80%),
+  caption: [Early model]
+)
+
+The problem with this is that while this is a great source of light, it falls apart when you start adding in walls. Here's an example:
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/wall_outside.png", width: 80%),
+  caption: [Wall on top floor]
+)
+#figure(
+  image("./own_house/typst/photos/house_new_examples/dark_inside.png", width: 80%),
+  caption: [Dark behind the wall]
+)
+
+As you can see, it is really dark from the inside despite the enormous windows that are put in place, so I need more windows. 
+And the problem with adding more windows is that they don't actually give that much more light because the house would be oriented to give the large window the most light. 
 
 #figure(
   image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.30.12.png", width: 80%),
   caption: [Front view, earlier designs]
 )
-Here I decided the stairs needed windows for light, so I placed three identical windows for each landing area. The concept would stay, but not in this way. 
+My first thought would be to add more windows, like this. Then I decided that this wouldn't solve the problem because the back side of the house doesn't receive as much light.
+
+So my next thought was to rotate the house 90 degrees so as to give the largest face of the house the most light possible.
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/rotated_outside.png", width: 80%),
+  caption: [House rotated]
+)
+
+But this doesn't actually solve the problem that we have, however it introduces us to a new problem: the fishbowl effect. 
+
+This is an effect noticed when you have giant windows like these, because it allows people from the outside to see into the house a bit too well, and that can make living inside it uncomfortable. 
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/rotated_inside.png", width: 80%),
+  caption: [House rotated, still dark inside]
+)
+
+This is the view from inside, behind a wall. You will notice that there is still light there, because of bounce lighting, and because these walls are quite reflective because they are off-white, but nevertheless having just these windows wouldn't suffice for a house like this. 
+
+So let's try a different approach: panels spun all around the house that act like windows. Two will face the sun, and one will light the bedroom, and one will light the stairs.
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/fixed_outside.png", width: 80%),
+  caption: [More smaller windows]
+)
+
+
+
+This way, everything is lit up well, but there's no single angle that will give a full view inside the house, meaning that it wouldn't feel uncomfortable living inside this house.
+
+This approach also means that the house is lit from many spots so there aren't going to be dark spots inside the house due to a lack of window lighting.  
+
+Here I show a floor plan from inside, where every room is lit with the floor to ceiling windows. 
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/room1_lit.png", width: 80%),
+  caption: [Inside the well-lit rooms]
+)
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/room2_lit.png", width: 80%),
+  caption: [Inside well lit rooms]
+)
+
+
+
+Next I tried applying this to my house, and using standardised windows (so that custom glass doesn't have to be made, that's really expensive). In the following images you'll see a model with three floors. I end up removing the middle floor, as I'll explain later, but window positioning for the ground floor and top floor is the same. 
 
 #figure(
   image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.38.40.png", width: 80%),
@@ -751,7 +925,7 @@ This would be the living room on the ground floor, and one of the bedrooms on th
 )
 This is for the bedroom on the top floor.
 
-At first I considered opting for big windows like these, however looking back at modernist houses, these windows wouldn't have been big enough, because modernism likes to employ floor-ceiling windows instead. \
+At first I considered opting for big windows like these, however looking back at modernist houses, these windows wouldn't have been big enough, because modernism likes to employ floor-ceiling windows instead, so I went back to using floor to ceiling windows. \
 
 
 
@@ -771,6 +945,9 @@ As you can see I took the previous windows I had and extended them to be floor-c
   image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.34.52.png", width: 80%),
   caption: [More windows]
 )
+
+== House slant
+
 #figure(
   image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.34.57.png", width: 80%),
   caption: [House slant]
@@ -781,12 +958,15 @@ As shown here, I kept the slant of the roof, with the higher part of the roof fa
   caption: [Wall height differences.]
 )
 This decision meant that all interior walls also had to be of a different and non-standard heights, which made this section of the house quite tedious to build.
+
+== Platform positioning
+
 #figure(
   image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.36.13.png", width: 80%),
   caption: [Positioning fixed in software]
 )
 
-I ended up changing the positioning of the house on the platform as a lesson from model 1. This gave me much more space just outside the house, and less of it wasted.
+I ended up changing the positioning of the house on the platform as a lesson from model 1. This gave me much more space just outside the house, and less of it wasted. I also made the platform longer and narrower, to give more space in the front.
 
 == The middle floor
 When I first read the brief, I though to myself: I'll need the ground floor for the kitchen, the dining room, some storage space and a bathroom, and the top floor will all be just bedrooms. So I'll need another floor to have a living area. \
@@ -794,6 +974,8 @@ But then I looked at how the floor plan I designed for the ground floor fit toge
 
 // Last model
 
+#pagebreak()
+== The completed model
 #figure(
   image("./own_house/typst/photos/IMG_20260427_164438_048.jpg", width: 80%),
   caption: [Model 2, south facing]
