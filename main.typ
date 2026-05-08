@@ -652,6 +652,24 @@ While the dimensions were too big for my house, I ended up adapting the idea and
   caption: [Isometric view of the top floor.]
 )
 
+#figure(
+  image("./own_house/typst/photos/house_new_examples/smaller_bedroom.png", width: 80%),
+  caption: [The smaller bedroom]
+)
+Initially I was concerned that the top floor bedrooms would be too small, but after making them I think they are reasonably sized. 
+
+#figure(
+  image("./own_house/typst/photos/house_new_examples/landing_render.png", width: 80%),
+  caption: [Render of landing]
+)
+Here is what the connection between the two smaller bedrooms and the bathroom looks like.
+
+#figure(
+    image("./own_house/typst/photos/house_new_examples/master_bedroom.png", width: 80%),
+    caption: [En-suite bathroom]
+  )
+And lastly here is what the master bedroom's en-suite bathroom looks like.
+
 
 // Bedrooms
 //
@@ -660,6 +678,7 @@ While the dimensions were too big for my house, I ended up adapting the idea and
 // Top floor master bedroom
 
 
+#pagebreak()
 === Ground floor designs
 At first when I started planning the ground floor I started thinking in rooms, in the sense that I wanted:
 - A small bathroom
@@ -689,6 +708,7 @@ Here are some images of how these rooms would feel.
 But then I realised I was making a mistake by forcing these walls in:
 - Firstly I was making the rooms feel smaller by adding more walls, which was problematic
 - Secondly, I was going against the modernist philosophy of interior design: because I was forcing the use case, rather than leaving it to the inhabitants 
+- I was thinking in _rooms_, rather than thinking in _spaces_
 \
 So instead of this, I got rid of some of the walls, linking the kitchen and dining room, and the living room and the dining room. This still separated the living room from the kitchen by distance, a corner and the dining room. 
 \
@@ -946,19 +966,21 @@ As you can see I took the previous windows I had and extended them to be floor-c
   caption: [More windows]
 )
 
+#pagebreak()
 == House slant
 
 #figure(
   image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.34.57.png", width: 80%),
   caption: [House slant]
 )
-As shown here, I kept the slant of the roof, with the higher part of the roof facing south, but I rotated the entire house so that more of the house would be exposed to sunlight.
+As shown here, I kept the slant of the roof, with the higher part of the roof facing south, but I rotated the entire house so that more of the house would be exposed to sunlight. The advantage of having the house slant oriented with the highest ceiling facing south, as shown in the orientation and windows sections, is that you can put bigger windows, had have more light. This is why when I rotated the whole house, I rotated the slant as well to match the light.
 #figure(
   image("./own_house/typst/photos/Screenshot 2026-04-30 at 12.35.33.png", width: 80%),
   caption: [Wall height differences.]
 )
 This decision meant that all interior walls also had to be of a different and non-standard heights, which made this section of the house quite tedious to build.
 
+#pagebreak()
 == Platform positioning
 
 #figure(
@@ -1022,7 +1044,7 @@ On the right, on the ground floor the window is for the living room, on the top 
   image("./own_house/typst/photos/IMG_20260427_165630_021.jpg", width: 80%),
   caption: [The front of the house]
 )
-Here you can see the front part of the house, with the largest set of floor-ceiling windows. On the ground floor interior, this would be the kitchen and dining room, and behind that the living room, and on the top floor this would be the master bedroom. 
+Here you can see the front part of the house, with the largest set of floor-ceiling windows. On the ground floor interior, this would be the kitchen and dining room, and behind that the living room, and on the top floor this would be the master bedroom. You can't see it that well in this image, but the roof is slanted about 5 degrees, and the walls match this height.
 
 // #figure(
 //   image("./own_house/typst/photos/IMG_20260427_165731_278.jpg", width: 80%),
